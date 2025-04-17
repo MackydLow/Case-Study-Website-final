@@ -1,0 +1,73 @@
+h1 {
+    font-size: 60px;
+}
+
+.character{
+    margin: 5px;
+}
+
+h1, .character{
+    text-align: center;
+    font-family: 'CARTOON FREE', sans-serif;
+}
+
+.intro, .trait{
+    background-color: #000000;
+    color: white;
+    padding-bottom: 80px;
+}
+
+.intro h2, .trait h2{
+    color: white;
+}
+
+h2{
+    color: #000000;
+    font-family: 'CARTOON FREE', sans-serif;
+    padding-top: 15px;
+    margin-bottom: 5px;
+}
+
+.colourReverse{
+    color: #2c80f4;
+}
+
+body {
+    background-color: #e60000;
+    color: #000000;
+}
+
+.navColor {
+    background-color: #000000;
+}
+
+.navColor .navbar-brand, .navColor .nav-link {
+    color: #e60000;
+}
+
+.navColor .nav-link.active {
+    color: #000000;
+    background-color: #e60000;
+}
+
+.right{
+    float:right;
+    margin-right: 10px;
+}
+
+.beanoComic{
+   margin: 0px;
+   text-align:center;
+}
+
+.intro , .mediaApp{
+    margin:15px;
+}
+
+.center {
+    background-color: #000000;
+}
+
+.card{
+    margin-left:255px;
+}
