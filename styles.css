@@ -21,6 +21,15 @@ h1, .character{
     color: white;
 }
 
+.mybg{
+    background-color:#000000;
+}
+
+.mytc{
+    color:white;
+    text-align: center;
+}
+
 h2{
     color: #000000;
     font-family: 'CARTOON FREE', sans-serif;
@@ -68,6 +77,6 @@ body {
     background-color: #000000;
 }
 
-.card{
+.mackc{
     margin-left:255px;
 }
